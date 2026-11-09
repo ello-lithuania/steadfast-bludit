@@ -1,0 +1,348 @@
+{
+  "brand": "Steadfast",
+  "brand_icon": "wrench",
+  "tagline": "Reliable home repairs for the jobs that keep getting put off. Fair prices, tidy work and a 12-month guarantee.",
+  "topbar_text": "Open Monday to Saturday, 8:00 to 18:00",
+  "phone": "+1 000 000 0000",
+  "phone_href": "+10000000000",
+  "email": "hello@example.com",
+  "cta_label": "Get a free quote",
+  "cta_url": "#contact",
+  "credit": true,
+  "nav": [
+    {
+      "name": "Services",
+      "url": "#services"
+    },
+    {
+      "name": "How it works",
+      "url": "#process"
+    },
+    {
+      "name": "Recent work",
+      "url": "#work"
+    },
+    {
+      "name": "Pricing",
+      "url": "#pricing"
+    },
+    {
+      "name": "Reviews",
+      "url": "#reviews"
+    },
+    {
+      "name": "FAQ",
+      "url": "#faq"
+    },
+    {
+      "name": "Contact",
+      "url": "#contact"
+    }
+  ],
+  "footer_columns": [
+    {
+      "title": "Company",
+      "links": [
+        {
+          "name": "Services",
+          "url": "#services"
+        },
+        {
+          "name": "How it works",
+          "url": "#process"
+        },
+        {
+          "name": "Recent work",
+          "url": "#work"
+        },
+        {
+          "name": "Reviews",
+          "url": "#reviews"
+        }
+      ]
+    },
+    {
+      "title": "Help",
+      "links": [
+        {
+          "name": "Pricing",
+          "url": "#pricing"
+        },
+        {
+          "name": "FAQ",
+          "url": "#faq"
+        },
+        {
+          "name": "Contact",
+          "url": "#contact"
+        }
+      ]
+    }
+  ],
+  "hero": {
+    "eyebrow": "Local home repairs",
+    "title_start": "Small jobs done",
+    "title_mark": "properly",
+    "title_end": ", the first time.",
+    "lead": "Leaks, loose doors, tired paint and the long list you keep meaning to get to. Tell us what needs fixing and get a clear price before anyone picks up a tool.",
+    "primary": {
+      "label": "Get a free quote",
+      "url": "#contact"
+    },
+    "secondary": {
+      "label": "See our services",
+      "url": "#services"
+    },
+    "trust": [
+      {
+        "value": "12 yrs",
+        "label": "in the trade"
+      },
+      {
+        "value": "2,400+",
+        "label": "jobs finished"
+      },
+      {
+        "value": "4.9 / 5",
+        "label": "average rating"
+      }
+    ],
+    "badges": [
+      {
+        "icon": "check",
+        "title": "Leaky tap fixed",
+        "text": "Today, 10:40"
+      },
+      {
+        "icon": "shield",
+        "title": "12-month guarantee",
+        "text": "On all our work"
+      }
+    ]
+  },
+  "services": {
+    "eyebrow": "Services",
+    "title": "One call for the jobs that keep getting put off.",
+    "items": [
+      {
+        "icon": "drop",
+        "title": "Plumbing repairs",
+        "text": "Dripping taps, running toilets, blocked drains and small leaks, sorted before they turn into big ones.",
+        "from": "From $65"
+      },
+      {
+        "icon": "bolt",
+        "title": "Electrical fixes",
+        "text": "New sockets, light fittings, dimmers and fault finding, carried out by a certified electrician.",
+        "from": "From $75"
+      },
+      {
+        "icon": "brush",
+        "title": "Painting and patching",
+        "text": "Filled cracks, clean edges and a fresh coat for a single wall or a whole room, with the mess tidied away.",
+        "from": "From $120"
+      },
+      {
+        "icon": "door",
+        "title": "Doors and windows",
+        "text": "Sticking doors, worn seals, broken handles and new locks, so everything opens, closes and keeps the draught out.",
+        "from": "From $55"
+      },
+      {
+        "icon": "wrench",
+        "title": "Assembly and mounting",
+        "text": "Flat-pack furniture, shelves, TV brackets and curtain rails, level and fixed firmly the first time.",
+        "from": "From $45"
+      },
+      {
+        "icon": "leaf",
+        "title": "Outdoor upkeep",
+        "text": "Gutter clearing, fence panels, deck repairs and seasonal checks that keep small problems outside.",
+        "from": "From $70"
+      }
+    ]
+  },
+  "process": {
+    "eyebrow": "How it works",
+    "title": "Four steps, and no surprises on the bill.",
+    "steps": [
+      {
+        "title": "Tell us the job",
+        "text": "Send a message or a photo. A short description is enough to get started."
+      },
+      {
+        "title": "Get a clear price",
+        "text": "You receive a fixed quote the same day, with materials listed separately."
+      },
+      {
+        "title": "Pick a time",
+        "text": "Choose a two-hour arrival window that suits you, including Saturdays."
+      },
+      {
+        "title": "Job done, area tidy",
+        "text": "We check the work with you, clean up and only then send the invoice."
+      }
+    ]
+  },
+  "work": {
+    "eyebrow": "Recent work",
+    "title": "A few jobs from the last month.",
+    "items": [
+      {
+        "art": "tap",
+        "tag": "Plumbing",
+        "title": "Kitchen mixer replaced",
+        "text": "Old tap out, new one in and no more drips, in just under an hour."
+      },
+      {
+        "art": "roller",
+        "tag": "Painting",
+        "title": "Living room refreshed",
+        "text": "Cracks filled and two coats on the walls, all done within a single day."
+      },
+      {
+        "art": "fence",
+        "tag": "Outdoor",
+        "title": "Storm-damaged fence",
+        "text": "Five panels and two posts replaced, then treated to last through winter."
+      }
+    ]
+  },
+  "pricing": {
+    "eyebrow": "Pricing",
+    "title": "Simple rates you can check before you book.",
+    "lead": "Sample prices shown. Materials are charged at cost, and we always confirm the total first.",
+    "plans": [
+      {
+        "name": "Quick fix",
+        "price": "$65",
+        "unit": "/ first hour",
+        "text": "For one small job that just needs doing.",
+        "features": [
+          "One job, up to an hour",
+          "Same-week appointment",
+          "12-month guarantee"
+        ],
+        "cta": "Book a quick fix",
+        "url": "#contact"
+      },
+      {
+        "name": "Half day",
+        "price": "$220",
+        "unit": "/ 4 hours",
+        "text": "For that list of jobs on the fridge door.",
+        "features": [
+          "As many jobs as fit",
+          "Materials picked up for you",
+          "Saturday slots available",
+          "12-month guarantee"
+        ],
+        "cta": "Book a half day",
+        "url": "#contact",
+        "featured": true,
+        "flag": "Most popular"
+      },
+      {
+        "name": "Full day",
+        "price": "$400",
+        "unit": "/ 8 hours",
+        "text": "For bigger updates or a whole property.",
+        "features": [
+          "Two people when needed",
+          "Written plan and fixed quote",
+          "Waste taken away",
+          "12-month guarantee"
+        ],
+        "cta": "Plan a full day",
+        "url": "#contact"
+      }
+    ]
+  },
+  "reviews": {
+    "eyebrow": "Reviews",
+    "title": "What customers tend to say.",
+    "lead": "Placeholder text. Replace these with real reviews from your own customers.",
+    "items": [
+      {
+        "quote": "Arrived in the window they promised, fixed the leak, and showed me what had gone wrong. The price was exactly what they quoted.",
+        "name": "Customer Name",
+        "detail": "Kitchen repair",
+        "initials": "CN"
+      },
+      {
+        "quote": "I had a list of nine little jobs and had been ignoring it for a year. All nine were finished by lunchtime, and the place was left spotless.",
+        "name": "Customer Name",
+        "detail": "Half-day booking",
+        "initials": "CN"
+      },
+      {
+        "quote": "Clear communication from the first message. They sent a photo when the fence was finished, so I could check it from work.",
+        "name": "Customer Name",
+        "detail": "Fence repair",
+        "initials": "CN"
+      }
+    ]
+  },
+  "faq": {
+    "eyebrow": "FAQ",
+    "title": "Questions we hear most.",
+    "lead": "Can't find what you need? Send us a message and we'll reply the same day.",
+    "items": [
+      {
+        "q": "How quickly can you come out?",
+        "a": "Most small jobs are booked within the same week. For urgent leaks or electrical faults, call us and we'll do our best to come the same day."
+      },
+      {
+        "q": "Is the quote really free?",
+        "a": "Yes. Send a description and a photo or two, and you'll get a price with no obligation. If we need to see the job first, that visit is free too."
+      },
+      {
+        "q": "Do I need to buy the materials?",
+        "a": "Only if you want to. You can supply your own, or we can bring them and charge them at cost, with receipts included on the invoice."
+      },
+      {
+        "q": "What does the guarantee cover?",
+        "a": "If something we fixed fails within 12 months because of our work, we come back and put it right at no charge."
+      },
+      {
+        "q": "How do I pay?",
+        "a": "We send the invoice once you've checked the work. You can pay by card or bank transfer, and larger jobs can be split into stages."
+      },
+      {
+        "q": "Which areas do you cover?",
+        "a": "We work across the city and within about 30 km of it. Further out is fine for larger jobs, so just ask."
+      }
+    ]
+  },
+  "contact": {
+    "eyebrow": "Contact",
+    "title": "Tell us what needs fixing.",
+    "lead": "We reply within a few working hours, usually with a price.",
+    "address_label": "Workshop",
+    "address": "123 Example Street, Your City",
+    "hours": "Mon to Sat, 8:00 to 18:00",
+    "form_action": "",
+    "select_label": "What do you need help with?",
+    "select_placeholder": "Choose a service",
+    "options": [
+      "Plumbing repairs",
+      "Electrical fixes",
+      "Painting and patching",
+      "Doors and windows",
+      "Assembly and mounting",
+      "Outdoor upkeep",
+      "Something else"
+    ],
+    "message_label": "Describe the job",
+    "message_placeholder": "What's wrong, where it is and when it would suit you",
+    "submit": "Send request",
+    "note": "No obligation. We only use your details to reply.",
+    "success": "Thanks! This demo form doesn't send anything yet. Set contact.form_action in data/site.json to connect it."
+  },
+  "cta": {
+    "title": "That list on the fridge won't fix itself.",
+    "text": "Send it over and get a price today.",
+    "label": "Get a free quote",
+    "url": "#contact"
+  }
+}
