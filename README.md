@@ -4,7 +4,7 @@ A one-page theme for tradespeople, repair shops, cleaners, gardeners and anyone 
 
 ![Steadfast preview](screenshot.png)
 
-**[Live demo](https://kokybiskasvetaine.lt/steadfast/)**
+**[Live demo](https://ello-lithuania.github.io/steadfast-bootstrap-template/)**
 
 ## Features
 
